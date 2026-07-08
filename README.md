@@ -4,4 +4,4 @@ An interactive Excel dashboard analyzing sales, profit, customers, and regional 
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Global%20Superstore%20DashBoard%20.png)
