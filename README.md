@@ -51,7 +51,6 @@ and instantly view updated business insights.
 - Slicers
 - Timelines
 - VLOOKUP
-- XLOOKUP
 - SUMIFS
 - COUNTIFS
 - Dashboard Design
